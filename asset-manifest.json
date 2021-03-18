@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/clothing-store-react/static/css/main.74c98ddc.chunk.css",
+    "main.js": "/clothing-store-react/static/js/main.d9c81be8.chunk.js",
+    "main.js.map": "/clothing-store-react/static/js/main.d9c81be8.chunk.js.map",
+    "runtime-main.js": "/clothing-store-react/static/js/runtime-main.ab5338bf.js",
+    "runtime-main.js.map": "/clothing-store-react/static/js/runtime-main.ab5338bf.js.map",
+    "static/js/2.79f014ea.chunk.js": "/clothing-store-react/static/js/2.79f014ea.chunk.js",
+    "static/js/2.79f014ea.chunk.js.map": "/clothing-store-react/static/js/2.79f014ea.chunk.js.map",
+    "index.html": "/clothing-store-react/index.html",
+    "static/css/main.74c98ddc.chunk.css.map": "/clothing-store-react/static/css/main.74c98ddc.chunk.css.map",
+    "static/js/2.79f014ea.chunk.js.LICENSE.txt": "/clothing-store-react/static/js/2.79f014ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab5338bf.js",
+    "static/js/2.79f014ea.chunk.js",
+    "static/css/main.74c98ddc.chunk.css",
+    "static/js/main.d9c81be8.chunk.js"
+  ]
+}
